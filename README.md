@@ -9,5 +9,6 @@
  * El verdadero amor por las buenas practicas
  * Las personalidades multiples de Freddy
  * Creado por el equipod de Platzi Team
+ * Incluye ejemplos de windows linux y mac
  
  Y como un amable recordatorio: **Este readme.md es un chiste**. diseñado para ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [a ver el curso](https://platzi.com/cursos/git-github).
